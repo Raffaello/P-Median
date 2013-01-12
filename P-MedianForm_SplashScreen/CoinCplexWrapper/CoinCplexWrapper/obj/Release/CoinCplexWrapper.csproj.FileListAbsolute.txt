@@ -1,0 +1,5 @@
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\CoinCplexWrapper\CoinCplexWrapper\bin\Release\CoinCplexWrapper.dll
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\CoinCplexWrapper\CoinCplexWrapper\bin\Release\CoinCplexWrapper.pdb
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\CoinCplexWrapper\CoinCplexWrapper\obj\Release\ResolveAssemblyReference.cache
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\CoinCplexWrapper\CoinCplexWrapper\obj\Release\CoinCplexWrapper.dll
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\CoinCplexWrapper\CoinCplexWrapper\obj\Release\CoinCplexWrapper.pdb

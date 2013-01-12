@@ -1,0 +1,15 @@
+C:\Users\Enrico\Desktop\A3_pj\CoinCplexWrapper\CoinCplexWrapper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Enrico\Desktop\A3_pj\CoinCplexWrapper\CoinCplexWrapper\bin\Debug\CoinCplexWrapper.dll
+C:\Users\Enrico\Desktop\A3_pj\CoinCplexWrapper\CoinCplexWrapper\bin\Debug\CoinCplexWrapper.pdb
+C:\Users\Enrico\Desktop\A3_pj\CoinCplexWrapper\CoinCplexWrapper\obj\Debug\CoinCplexWrapper.dll
+C:\Users\Enrico\Desktop\A3_pj\CoinCplexWrapper\CoinCplexWrapper\obj\Debug\CoinCplexWrapper.pdb
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\bin\Debug\CoinCplexWrapper.dll
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\bin\Debug\CoinCplexWrapper.pdb
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\obj\Debug\CoinCplexWrapper.dll
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\obj\Debug\CoinCplexWrapper.pdb
+D:\Uni\GIS\ASP.NET\PMedLibWcfService\CoinCplexWrapper\CoinCplexWrapper\bin\Debug\CoinCplexWrapper.dll
+D:\Uni\GIS\ASP.NET\PMedLibWcfService\CoinCplexWrapper\CoinCplexWrapper\bin\Debug\CoinCplexWrapper.pdb
+D:\Uni\GIS\ASP.NET\PMedLibWcfService\CoinCplexWrapper\CoinCplexWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\Uni\GIS\ASP.NET\PMedLibWcfService\CoinCplexWrapper\CoinCplexWrapper\obj\Debug\CoinCplexWrapper.dll
+D:\Uni\GIS\ASP.NET\PMedLibWcfService\CoinCplexWrapper\CoinCplexWrapper\obj\Debug\CoinCplexWrapper.pdb

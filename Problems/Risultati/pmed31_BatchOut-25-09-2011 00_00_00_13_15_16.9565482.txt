@@ -1,0 +1,9 @@
+Batch Output Date/Time : 25/09/2011 00:00:00 - 13:15:16.9775494
+loading pmed31.txt --- nodes 700 - p 5 - m -1
+
+Seed = 1657
+pmed31.txt : Solution = 11549 --- Wrapper = False --- TotTime = 00:00:36.6384422 --- N = 1000 CheckSetP = 0
+pmed31.txt : Solution = 11074 --- Wrapper = False --- TotTime = 00:04:28.0704083 --- N = 3000 CheckSetP = 0
+pmed31.txt : Solution = 11074 --- Wrapper = False --- TotTime = 00:05:35.4960084 --- N = 5000 CheckSetP = 0
+
+Finish All batch, time elapsed 00:10:46.7157034

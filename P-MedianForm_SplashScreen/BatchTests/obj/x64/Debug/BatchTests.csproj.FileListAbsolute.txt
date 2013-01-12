@@ -1,0 +1,9 @@
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\BatchTests\bin\x64\Debug\BatchTests.exe
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\BatchTests\bin\x64\Debug\BatchTests.pdb
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\BatchTests\bin\x64\Debug\PMedLib.dll
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\BatchTests\bin\x64\Debug\CoinCplexWrapper.dll
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\BatchTests\bin\x64\Debug\PMedLib.pdb
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\BatchTests\bin\x64\Debug\CoinCplexWrapper.pdb
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\BatchTests\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\BatchTests\obj\x64\Debug\BatchTests.exe
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\BatchTests\obj\x64\Debug\BatchTests.pdb

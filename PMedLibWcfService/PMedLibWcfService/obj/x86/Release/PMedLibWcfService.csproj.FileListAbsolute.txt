@@ -1,0 +1,8 @@
+D:\Uni\GIS\Exam\ASP.NET\PMedLibWcfService\PMedLibWcfService\bin\x86\Release\CoinCplexWrapper.dll
+D:\Uni\GIS\Exam\ASP.NET\PMedLibWcfService\PMedLibWcfService\bin\x86\Release\CoinMP.dll
+D:\Uni\GIS\Exam\ASP.NET\PMedLibWcfService\PMedLibWcfService\bin\x86\Release\PMedLibWcfService.dll
+D:\Uni\GIS\Exam\ASP.NET\PMedLibWcfService\PMedLibWcfService\bin\x86\Release\PMedLibWcfService.pdb
+D:\Uni\GIS\Exam\ASP.NET\PMedLibWcfService\PMedLibWcfService\bin\x86\Release\PMedLib.dll
+D:\Uni\GIS\Exam\ASP.NET\PMedLibWcfService\PMedLibWcfService\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Uni\GIS\Exam\ASP.NET\PMedLibWcfService\PMedLibWcfService\obj\x86\Release\PMedLibWcfService.dll
+D:\Uni\GIS\Exam\ASP.NET\PMedLibWcfService\PMedLibWcfService\obj\x86\Release\PMedLibWcfService.pdb

@@ -1,0 +1,11 @@
+Batch Output Date/Time : 28/09/2011 00:00:00 - 08:20:47.5381031
+loading pmed35.txt --- nodes 800 - p 5 - m -1
+
+Seed = 1657
+pmed35.txt : Solution = 11525 --- Wrapper = False --- TotTime = 00:00:39.9408763 --- N = 1000 CheckSetP = 0
+pmed35.txt : Solution = 11525 --- Wrapper = False --- TotTime = 00:08:31.1575530 --- N = 3000 CheckSetP = 0
+Cannot Compute Wrapper Solution!!! error!!!
+pmed35.txt : No Wrapper Computed!!!!
+pmed35.txt : Solution = 11064 --- Wrapper = False --- TotTime = 00:09:35.7517731 --- N = 5000 CheckSetP = 0
+
+Finish All batch, time elapsed 00:18:56.2602422

@@ -1,0 +1,15 @@
+Batch Output Date/Time : 24/09/2011 00:00:00 - 18:33:29.4353784
+loading pmed13.txt --- nodes 300 - p 30 - m -1
+
+Seed = 1657
+Cannot Compute Wrapper Solution!!! error!!!
+pmed13.txt : No Wrapper Computed!!!!
+pmed13.txt : Solution = 5933 --- Wrapper = False --- TotTime = 03:57:09.9150182 --- N = 1000 CheckSetP = 0
+Cannot Compute Wrapper Solution!!! error!!!
+pmed13.txt : No Wrapper Computed!!!!
+pmed13.txt : Solution = 5933 --- Wrapper = False --- TotTime = 00:00:01.7630825 --- N = 3000 CheckSetP = 0
+Cannot Compute Wrapper Solution!!! error!!!
+pmed13.txt : No Wrapper Computed!!!!
+pmed13.txt : Solution = 5821 --- Wrapper = False --- TotTime = 00:00:01.8692126 --- N = 5000 CheckSetP = 0
+
+Finish All batch, time elapsed 03:57:14.3456196

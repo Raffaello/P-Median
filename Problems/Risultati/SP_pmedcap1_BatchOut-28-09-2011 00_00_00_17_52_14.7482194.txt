@@ -1,0 +1,123 @@
+Batch Output Date/Time : 28/09/2011 00:00:00 - 17:52:14.7642203
+loading pmedcap1.txt --- nodes 50 - p 5 - m 1
+
+Seed = 1657
+pmedcap1.txt : Solution = 760 --- Wrapper = True --- TotTime = 00:00:22.9737226 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 713 --- Wrapper = True --- TotTime = 00:00:04.0701984 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 713 --- Wrapper = True --- TotTime = 00:00:14.4142308 --- N = 5000 CheckSetP = 0
+50 - p 5 - m 2
+
+Seed = 1657
+pmedcap1.txt : Solution = 765 --- Wrapper = True --- TotTime = 00:00:02.6822626 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 753 --- Wrapper = True --- TotTime = 00:00:10.1877367 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 753 --- Wrapper = True --- TotTime = 00:00:05.6959350 --- N = 5000 CheckSetP = 0
+50 - p 5 - m 3
+
+Seed = 1657
+pmedcap1.txt : Solution = 760 --- Wrapper = True --- TotTime = 00:00:00.3461455 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 751 --- Wrapper = True --- TotTime = 00:00:01.3445062 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 751 --- Wrapper = True --- TotTime = 00:00:02.3439295 --- N = 5000 CheckSetP = 0
+50 - p 5 - m 4
+
+Seed = 1657
+pmedcap1.txt : Solution = 654 --- Wrapper = True --- TotTime = 00:00:00.3351903 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 651 --- Wrapper = True --- TotTime = 00:00:01.0990522 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 651 --- Wrapper = True --- TotTime = 00:00:02.2960098 --- N = 5000 CheckSetP = 0
+50 - p 5 - m 5
+
+Seed = 1657
+pmedcap1.txt : Solution = 707 --- Wrapper = True --- TotTime = 00:00:03.8003723 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 665 --- Wrapper = True --- TotTime = 00:00:01.1442247 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 665 --- Wrapper = True --- TotTime = 00:00:02.3419374 --- N = 5000 CheckSetP = 0
+50 - p 5 - m 6
+
+Seed = 1657
+pmedcap1.txt : Solution = 787 --- Wrapper = True --- TotTime = 00:00:00.3498239 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 779 --- Wrapper = True --- TotTime = 00:00:01.2454268 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 778 --- Wrapper = True --- TotTime = 00:00:02.1862107 --- N = 5000 CheckSetP = 0
+50 - p 5 - m 7
+
+Seed = 1657
+pmedcap1.txt : Solution = 800 --- Wrapper = True --- TotTime = 00:00:00.3371247 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 795 --- Wrapper = True --- TotTime = 00:00:05.7663534 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 791 --- Wrapper = True --- TotTime = 00:00:07.1942859 --- N = 5000 CheckSetP = 0
+50 - p 5 - m 8
+
+Seed = 1657
+pmedcap1.txt : Solution = 845 --- Wrapper = True --- TotTime = 00:01:07.7958847 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 832 --- Wrapper = True --- TotTime = 00:02:55.8317754 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 832 --- Wrapper = True --- TotTime = 00:06:50.6485816 --- N = 5000 CheckSetP = 0
+50 - p 5 - m 9
+
+Seed = 1657
+pmedcap1.txt : Solution = 724 --- Wrapper = True --- TotTime = 00:00:00.3647191 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 721 --- Wrapper = True --- TotTime = 00:00:25.0597243 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 718 --- Wrapper = True --- TotTime = 00:00:14.6768194 --- N = 5000 CheckSetP = 0
+50 - p 5 - m 10
+
+Seed = 1657
+pmedcap1.txt : Solution = 886 --- Wrapper = True --- TotTime = 00:01:01.3190930 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 854 --- Wrapper = True --- TotTime = 00:00:42.6430519 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 845 --- Wrapper = True --- TotTime = 00:02:31.6449724 --- N = 5000 CheckSetP = 0
+100 - p 10 - m 11
+
+Seed = 1657
+pmedcap1.txt : Solution = 1083 --- Wrapper = True --- TotTime = 00:04:53.2948902 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 1035 --- Wrapper = True --- TotTime = 00:02:01.6103612 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 1022 --- Wrapper = True --- TotTime = 00:02:28.7649547 --- N = 5000 CheckSetP = 0
+100 - p 10 - m 12
+
+Seed = 1657
+pmedcap1.txt : Solution = 1033 --- Wrapper = True --- TotTime = 00:03:24.3207233 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 989 --- Wrapper = True --- TotTime = 00:02:08.2994876 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 977 --- Wrapper = True --- TotTime = 00:02:18.1953089 --- N = 5000 CheckSetP = 0
+100 - p 10 - m 13
+
+Seed = 1657
+pmedcap1.txt : Solution = 1073 --- Wrapper = True --- TotTime = 00:00:44.2176274 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 1052 --- Wrapper = True --- TotTime = 00:01:26.3659486 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 1052 --- Wrapper = True --- TotTime = 00:02:26.9132902 --- N = 5000 CheckSetP = 0
+100 - p 10 - m 14
+
+Seed = 1657
+pmedcap1.txt : Solution = 1051 --- Wrapper = True --- TotTime = 00:02:41.0702724 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 1002 --- Wrapper = True --- TotTime = 00:01:42.8487129 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 994 --- Wrapper = True --- TotTime = 00:03:04.2913349 --- N = 5000 CheckSetP = 0
+100 - p 10 - m 15
+
+Seed = 1657
+pmedcap1.txt : Solution = 1212 --- Wrapper = True --- TotTime = 00:12:58.5482102 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 1153 --- Wrapper = True --- TotTime = 00:08:49.9346934 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 1121 --- Wrapper = True --- TotTime = 00:05:27.1000050 --- N = 5000 CheckSetP = 0
+100 - p 10 - m 16
+
+Seed = 1657
+pmedcap1.txt : Solution = 1010 --- Wrapper = True --- TotTime = 00:03:21.3524785 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 965 --- Wrapper = True --- TotTime = 00:01:13.2902215 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 962 --- Wrapper = True --- TotTime = 00:02:19.9517070 --- N = 5000 CheckSetP = 0
+100 - p 10 - m 17
+
+Seed = 1657
+pmedcap1.txt : Solution = 1117 --- Wrapper = True --- TotTime = 00:04:30.5966398 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 1069 --- Wrapper = True --- TotTime = 00:09:20.1787820 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 1046 --- Wrapper = True --- TotTime = 00:03:02.9609849 --- N = 5000 CheckSetP = 0
+100 - p 10 - m 18
+
+Seed = 1657
+pmedcap1.txt : Solution = 1112 --- Wrapper = True --- TotTime = 00:02:04.0603563 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 1078 --- Wrapper = True --- TotTime = 00:14:26.2276290 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 1075 --- Wrapper = True --- TotTime = 00:05:38.3787072 --- N = 5000 CheckSetP = 0
+100 - p 10 - m 19
+
+Seed = 1657
+pmedcap1.txt : Solution = 1097 --- Wrapper = True --- TotTime = 00:02:57.9568244 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 1058 --- Wrapper = True --- TotTime = 00:03:00.5735149 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 1045 --- Wrapper = True --- TotTime = 00:02:45.7465677 --- N = 5000 CheckSetP = 0
+100 - p 10 - m 20
+
+Seed = 1657
+pmedcap1.txt : Solution = 1081 --- Wrapper = True --- TotTime = 00:04:29.3308831 --- N = 1000 CheckSetP = 0
+pmedcap1.txt : Solution = 1044 --- Wrapper = True --- TotTime = 00:13:44.9212076 --- N = 3000 CheckSetP = 0
+pmedcap1.txt : Solution = 1041 --- Wrapper = True --- TotTime = 01:08:45.3810007 --- N = 5000 CheckSetP = 0
+
+Finish All batch, time elapsed 03:35:39.0096193

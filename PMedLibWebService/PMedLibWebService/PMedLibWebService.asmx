@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="PMedLibWebService.asmx.cs" Class="PMedLibWebService.PMedLibWebService" %>

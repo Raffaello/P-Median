@@ -1,0 +1,33 @@
+Batch Output Date/Time : 23/09/2011 00:00:00 - 21:55:41.9725063
+loading pmed1.txt --- nodes 100 - p 5 - m -1
+
+Seed = 1657
+pmed1.txt : Solution = 6377 --- Wrapper = False --- TotTime = 00:00:12.8529540 --- N = 1000 CheckSetP = 0
+pmed1.txt : Solution = 6151 --- Wrapper = False --- TotTime = 00:00:32.2182006 --- N = 3000 CheckSetP = 0
+pmed1.txt : Solution = 6151 --- Wrapper = False --- TotTime = 00:03:53.8394627 --- N = 5000 CheckSetP = 0
+loading pmed2.txt --- nodes 100 - p 10 - m -1
+
+Seed = 1657
+pmed2.txt : Solution = 4513 --- Wrapper = True --- TotTime = 00:00:40.4320477 --- N = 1000 CheckSetP = 0
+pmed2.txt : Solution = 4317 --- Wrapper = True --- TotTime = 00:01:13.2246653 --- N = 3000 CheckSetP = 0
+pmed2.txt : Solution = 4263 --- Wrapper = True --- TotTime = 00:00:45.7336419 --- N = 5000 CheckSetP = 0
+loading pmed3.txt --- nodes 100 - p 10 - m -1
+
+Seed = 1657
+pmed3.txt : Solution = 4621 --- Wrapper = True --- TotTime = 00:00:59.2033244 --- N = 1000 CheckSetP = 0
+pmed3.txt : Solution = 4425 --- Wrapper = True --- TotTime = 00:01:03.9750707 --- N = 3000 CheckSetP = 0
+pmed3.txt : Solution = 4351 --- Wrapper = True --- TotTime = 00:01:55.1736006 --- N = 5000 CheckSetP = 0
+loading pmed4.txt --- nodes 100 - p 20 - m -1
+
+Seed = 1657
+pmed4.txt : Solution = 3080 --- Wrapper = True --- TotTime = 00:00:01.7559823 --- N = 1000 CheckSetP = 0
+pmed4.txt : Solution = 3061 --- Wrapper = True --- TotTime = 00:00:04.1159889 --- N = 3000 CheckSetP = 0
+pmed4.txt : Solution = 3034 --- Wrapper = True --- TotTime = 00:00:09.2174031 --- N = 5000 CheckSetP = 0
+loading pmed5.txt --- nodes 100 - p 33 - m -1
+
+Seed = 1657
+pmed5.txt : Solution = 1374 --- Wrapper = True --- TotTime = 00:00:01.6634421 --- N = 1000 CheckSetP = 0
+pmed5.txt : Solution = 1360 --- Wrapper = True --- TotTime = 00:00:08.4353907 --- N = 3000 CheckSetP = 0
+pmed5.txt : Solution = 1360 --- Wrapper = True --- TotTime = 00:00:20.8307945 --- N = 5000 CheckSetP = 0
+
+Finish All batch, time elapsed 00:12:02.9872369

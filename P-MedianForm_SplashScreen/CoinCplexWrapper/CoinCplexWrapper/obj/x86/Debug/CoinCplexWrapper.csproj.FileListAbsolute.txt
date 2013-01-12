@@ -1,0 +1,10 @@
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\CoinCplexWrapper\CoinCplexWrapper\bin\x86\Debug\CoinCplexWrapper.dll
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\CoinCplexWrapper\CoinCplexWrapper\bin\x86\Debug\CoinCplexWrapper.pdb
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\CoinCplexWrapper\CoinCplexWrapper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\CoinCplexWrapper\CoinCplexWrapper\obj\x86\Debug\CoinCplexWrapper.dll
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\CoinCplexWrapper\CoinCplexWrapper\obj\x86\Debug\CoinCplexWrapper.pdb
+D:\Uni\GIS\ASP.NET\PMedLibWcfService\CoinCplexWrapper\CoinCplexWrapper\bin\x86\Debug\CoinCplexWrapper.dll
+D:\Uni\GIS\ASP.NET\PMedLibWcfService\CoinCplexWrapper\CoinCplexWrapper\bin\x86\Debug\CoinCplexWrapper.pdb
+D:\Uni\GIS\ASP.NET\PMedLibWcfService\CoinCplexWrapper\CoinCplexWrapper\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Uni\GIS\ASP.NET\PMedLibWcfService\CoinCplexWrapper\CoinCplexWrapper\obj\x86\Debug\CoinCplexWrapper.dll
+D:\Uni\GIS\ASP.NET\PMedLibWcfService\CoinCplexWrapper\CoinCplexWrapper\obj\x86\Debug\CoinCplexWrapper.pdb

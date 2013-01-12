@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="PMedLib.PMed3">
+    <Position X="9.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAgkAABQQEAAABBAggAgQAhAIEAKIAAogQIgEIAAcA=</HashCode>
+      <FileName>PMed3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PMedLib.PMed2">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="PMedLib.PMed2.ProgressReporter">
+        <TypeIdentifier>
+          <NewMemberFileName>PMed2.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAwABAQQAAACAAAAAAAAAApAIAEACQAAABIAACAAEA=</HashCode>
+      <FileName>PMed2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PMedLib.PMed1">
+    <Position X="4.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAgQACAAACAQAAgAAAAAAAQAAAAAAAQAACABAAAIAAA=</HashCode>
+      <FileName>PMed1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PMedLib.PMed">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="PMedLib.PMed.WriteDelegate">
+        <TypeIdentifier>
+          <NewMemberFileName>PMed.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Enum Name="PMedLib.PMed.WriteInfoenum">
+        <TypeIdentifier>
+          <NewMemberFileName>PMed.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAgCATAJAIAABIAAAAAAAAABBIAECAIEBiAAEgAAA=</HashCode>
+      <FileName>PMed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PMedLib.CCS">
+    <Position X="5.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAgAAAAAAAAAAAIAAQAACAAAAIAAABIAAAAABCCAAAA=</HashCode>
+      <FileName>CCS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

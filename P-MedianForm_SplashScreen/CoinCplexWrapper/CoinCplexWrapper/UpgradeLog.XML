@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CoinCplexWrapper">
+</Property><Property Name="Solution File" Value="C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\CoinCplexWrapper.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\CoinCplexWrapper.suo">
+</Property><Property Name="Date" Value="giovedì 9 dicembre 2010">
+</Property><Property Name="Time" Value="17:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CoinCplexWrapper.sln" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\Backup\CoinCplexWrapper.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CoinCplexWrapper.suo" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\Backup\CoinCplexWrapper.suo">
+</Event><Event ErrorLevel="0" Project="CoinCplexWrapper" Source="CoinCplexWrapper.csproj" Description="Project file successfully backed up as C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\Backup\CoinCplexWrapper.csproj">
+</Event><Event ErrorLevel="0" Project="CoinCplexWrapper" Source="CoinCplexWrapper.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\Backup\CoinCplexWrapper.cs">
+</Event><Event ErrorLevel="0" Project="CoinCplexWrapper" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\Wrapper\CoinMP_AddRow\CoinMP_AddRow\CoinCplexWrapper\CoinCplexWrapper\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CoinCplexWrapper" Source="CoinCplexWrapper.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CoinCplexWrapper" Source="CoinCplexWrapper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CoinCplexWrapper.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CoinCplexWrapper.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CoinCplexWrapper" Source="CoinCplexWrapper.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

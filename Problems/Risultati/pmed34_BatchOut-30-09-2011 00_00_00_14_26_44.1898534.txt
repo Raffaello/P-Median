@@ -1,0 +1,11 @@
+Batch Output Date/Time : 30/09/2011 00:00:00 - 14:26:44.2608574
+loading pmed34.txt --- nodes 700 - p 140 - m -1
+
+Seed = 1657
+pmed34.txt : Solution = 3083 --- Wrapper = True --- TotTime = 00:03:58.5164045 --- N = 1000 CheckSetP = 0
+pmed34.txt : Solution = 3047 --- Wrapper = True --- TotTime = 00:11:30.0073595 --- N = 3000 CheckSetP = 0
+Cannot Compute Wrapper Solution!!! error!!!
+pmed34.txt : No Wrapper Computed!!!!
+pmed34.txt : Solution = 4548 --- Wrapper = False --- TotTime = 00:04:39.3335632 --- N = 5000 CheckSetP = 0
+
+Finish All batch, time elapsed 00:20:14.2799567

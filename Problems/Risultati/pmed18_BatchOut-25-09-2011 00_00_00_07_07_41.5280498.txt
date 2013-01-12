@@ -1,0 +1,15 @@
+Batch Output Date/Time : 25/09/2011 00:00:00 - 07:07:41.5460509
+loading pmed18.txt --- nodes 400 - p 40 - m -1
+
+Seed = 1657
+Cannot Compute Wrapper Solution!!! error!!!
+pmed18.txt : No Wrapper Computed!!!!
+pmed18.txt : Solution = 6285 --- Wrapper = False --- TotTime = 05:34:49.6251150 --- N = 1000 CheckSetP = 0
+Cannot Compute Wrapper Solution!!! error!!!
+pmed18.txt : No Wrapper Computed!!!!
+pmed18.txt : Solution = 6285 --- Wrapper = False --- TotTime = 00:00:01.7896740 --- N = 3000 CheckSetP = 0
+Cannot Compute Wrapper Solution!!! error!!!
+pmed18.txt : No Wrapper Computed!!!!
+pmed18.txt : Solution = 6285 --- Wrapper = False --- TotTime = 00:00:02.9842071 --- N = 5000 CheckSetP = 0
+
+Finish All batch, time elapsed 05:34:55.9504639

@@ -1,0 +1,4 @@
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_NoSplashScreen\P-MedianForm\bin\Release\P-MedianForm.exe
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_NoSplashScreen\P-MedianForm\bin\Release\SimplyConsoleApp.exe
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_NoSplashScreen\P-MedianForm\bin\Release\CoinCplexWrapper.dll
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\P-MedianForm\bin\Release\P-MedianForm.exe.config

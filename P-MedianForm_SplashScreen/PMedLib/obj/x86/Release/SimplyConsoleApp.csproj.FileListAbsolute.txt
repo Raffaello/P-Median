@@ -1,0 +1,12 @@
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\SimplyConsoleApp\SimplyConsoleApp\bin\Release\SimplyConsoleApp.exe
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\SimplyConsoleApp\SimplyConsoleApp\bin\Release\SimplyConsoleApp.pdb
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\SimplyConsoleApp\SimplyConsoleApp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\SimplyConsoleApp\SimplyConsoleApp\obj\x86\Release\SimplyConsoleApp.exe
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\SimplyConsoleApp\SimplyConsoleApp\obj\x86\Release\SimplyConsoleApp.pdb
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\SimplyConsoleApp\bin\Release\SimplyConsoleApp.exe
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\SimplyConsoleApp\bin\Release\SimplyConsoleApp.pdb
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\SimplyConsoleApp\bin\Release\CoinCplexWrapper.dll
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\SimplyConsoleApp\bin\Release\CoinCplexWrapper.pdb
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\SimplyConsoleApp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\SimplyConsoleApp\obj\x86\Release\SimplyConsoleApp.exe
+C:\Users\Raffaello\Documents\Uni\AAA\Proj_Exam\P-MedianForm\SimplyConsoleApp\obj\x86\Release\SimplyConsoleApp.pdb

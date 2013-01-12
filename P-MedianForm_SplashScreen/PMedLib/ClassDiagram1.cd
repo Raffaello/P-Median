@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="PMedLib.CCS">
+    <Position X="2.5" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAgAAAAAAAAAAAJAAQAAiAAAAIAAAAAAAAAABCCAAAA=</HashCode>
+      <FileName>CCS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PMedLib.PMed">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="PMedLib.PMed.WriteDelegate">
+        <TypeIdentifier>
+          <NewMemberFileName>PMed.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Enum Name="PMedLib.PMed.WriteInfoenum">
+        <TypeIdentifier>
+          <NewMemberFileName>PMed.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAgCATAJAIAABIAAAAAAAAABBIAECAIEBiAAEgAAA=</HashCode>
+      <FileName>PMed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PMedLib.PMed1">
+    <Position X="2.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAgUACIAACAQAAgAAEAAAAQECAAAAAQAACABABAIAAQ=</HashCode>
+      <FileName>PMed1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PMedLib.PMed2">
+    <Position X="5.75" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="PMedLib.PMed2.ProgressReporter">
+        <TypeIdentifier>
+          <NewMemberFileName>PMed2.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAwABAQQAAACAAAAAAAAAApAIAEACQAAABIAACAAEA=</HashCode>
+      <FileName>PMed2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PMedLib.PMed3">
+    <Position X="7.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AgAgkAABQSEAAABBAggQgQAhAIEIIYABsAQIgFIAAcA=</HashCode>
+      <FileName>PMed3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PMedLib.Point">
+    <Position X="6" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>PMed.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="PMedLib.eProblemType">
+    <Position X="6" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PMed3.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

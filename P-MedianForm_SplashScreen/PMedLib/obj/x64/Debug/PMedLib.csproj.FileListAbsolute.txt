@@ -1,0 +1,7 @@
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\SimplyConsoleApp\bin\x64\Debug\PMedLib.dll
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\SimplyConsoleApp\bin\x64\Debug\PMedLib.pdb
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\SimplyConsoleApp\bin\x64\Debug\CoinCplexWrapper.dll
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\SimplyConsoleApp\bin\x64\Debug\CoinCplexWrapper.pdb
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\SimplyConsoleApp\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\SimplyConsoleApp\obj\x64\Debug\PMedLib.dll
+D:\Uni\AAA\Backups_Proj_Uni\P-MedianForm_SplashScreen\SimplyConsoleApp\obj\x64\Debug\PMedLib.pdb

@@ -1,0 +1,71 @@
+
+P - Median Library Web Services LOG file... DATE : 26/01/2012 00:00:00 - TIME 20:34:51.2165872
+
+P - Median Library Web Services LOG file... DATE : 26/01/2012 00:00:00 - TIME 20:35:27.5866674
+
+Capacitated problem number 1
+Best Solution Reported in file = 713
+VERTICES : 50
+p        : 5
+Q        : 120
+
+Computing solutions (Seed = Time)...
+Initializing Set-Covering Problem...
+LogLevel[6] = 3 (was 1)
+Coin Cbc and Clp Solver version 2.30.00, build Jul 12 2010
+command line - CoinMP -solve -quit (default strategy 1)
+Continuous objective value is 957 - 0.00 seconds
+processed model has 0 rows, 0 columns (0 integer) and 0 elements
+No integer variables - nothing to do
+Cuts at root node changed objective from 957 to -1.79769e+308
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Result - Finished objective 957 after 0 nodes and 0 iterations - took 0.00 seconds (total time 0.00)
+Total time 0.00
+
+--- The solution is NOT improved = 957 --- 957
+Wrapper Cluster [0] = S0C0 --- Length = 10
+Wrapper Cluster [1] = S0C1 --- Length = 10
+Wrapper Cluster [2] = S0C2 --- Length = 10
+Wrapper Cluster [3] = S0C3 --- Length = 11
+Wrapper Cluster [4] = S0C4 --- Length = 9
+P - Median Library Web Services LOG file... DATE : 27/01/2012 00:00:00 - TIME 00:26:49.8170615
+
+P - Median Library Web Services LOG file... DATE : 27/01/2012 00:00:00 - TIME 00:27:47.1533409
+
+Capacitated problem number 1
+Best Solution Reported in file = 713
+VERTICES : 50
+p        : 5
+Q        : 120
+
+Computing solutions (Seed = Time)...
+Initializing Set-Covering Problem...
+LogLevel[6] = 3 (was 1)
+Coin Cbc and Clp Solver version 2.30.00, build Jul 12 2010
+command line - CoinMP -solve -quit (default strategy 1)
+Continuous objective value is 1137 - 0.00 seconds
+processed model has 0 rows, 0 columns (0 integer) and 0 elements
+No integer variables - nothing to do
+Cuts at root node changed objective from 1137 to -1.79769e+308
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Result - Finished objective 1137 after 0 nodes and 0 iterations - took 0.00 seconds (total time 0.00)
+Total time 0.01
+
+--- The solution is NOT improved = 1137 --- 1137
+Wrapper Cluster [0] = S0C0 --- Length = 10
+Wrapper Cluster [1] = S0C1 --- Length = 7
+Wrapper Cluster [2] = S0C2 --- Length = 11
+Wrapper Cluster [3] = S0C3 --- Length = 10
+Wrapper Cluster [4] = S0C4 --- Length = 12
